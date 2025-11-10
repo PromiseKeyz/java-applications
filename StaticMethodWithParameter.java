@@ -1,0 +1,18 @@
+public class StaticMethodWithParameter{
+	public static void main(String[] args){
+		addition(800,567,34); // you must always call the addition inside the main method
+		addition(6,7,90);
+	}
+	public static void addition(int num1,int num2,int num3){
+		int sum = num1 + num2+ num3;
+		
+		System.out.printf("The sum is %d%n", sum);
+		
+	}
+
+
+
+
+}
+
+	

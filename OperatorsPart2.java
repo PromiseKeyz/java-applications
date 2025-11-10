@@ -4,6 +4,7 @@ public class OperatorsPart2{
 		int num2 = 35;
 		int num3 = 17;
 		
+		// Logical Operators  for (&&) "AND". 
 		// both conditions must be true for it to return true
 		boolean result = (num1 > num2) && (num1 > num3);
 		

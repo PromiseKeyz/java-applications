@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+
+public class Sum{
+	public static void main(String[] args){
+		Scanner input = new Scanner(System.in);
+		
+		int num, i = 1, sum = 0;
+		
+		while(i <= 10){
+			System.out.printf("Enter num%d: ",i);
+			num = input.nextInt();
+			
+			sum += num;
+			i++;
+		}
+	}
+
+}
+// As long as the condition is true, do

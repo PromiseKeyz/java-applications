@@ -1,5 +1,5 @@
 public class HelloWorld{
-	public static void main(String[] agrgs){
+	public static void main(String[] args){
 		
 		int num = 50;
 		String name = "Jack";
@@ -11,7 +11,7 @@ public class HelloWorld{
 		System.out.println("Hello World, This is my first Java program");
 		System.out.println("Learning java is fun");
 		
-		// using print methode
+		// using print method
 		System.out.print("The print method should be used to accept input");
 		System.out.print(" Another Print Method \n");
 		
