@@ -1,3 +1,15 @@
+
+/* (SalaryCalculator)Develop a Java application that determines the grosspay for each of three
+ employees.Thecompany pays straight time for the first 40 hours worked by each employee and time
+ and a half for all hours worked in excess of 40.You’re given alist of the employees,their number of
+ hours worked last week and their hourly rates.Your program should input this information for each
+ employee,then determine and display the employee’s gross pay.Use class Scanner to input the data.*/
+
+
+
+
+
+
 import java.util.Scanner;
 
 public class salaryCalculator {
